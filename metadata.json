@@ -1,0 +1,5 @@
+{
+  "name": "AbdoBot - AI Assistant",
+  "description": "An advanced AI assistant that can answer questions, analyze images, generate images from text, and write code. This application provides a chat interface to interact with AbdoBot's capabilities.",
+  "requestFramePermissions": []
+}
